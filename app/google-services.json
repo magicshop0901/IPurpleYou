@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1074439635510",
+    "firebase_url": "https://ipurpleyou-68fc6.firebaseio.com",
+    "project_id": "ipurpleyou-68fc6",
+    "storage_bucket": "ipurpleyou-68fc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074439635510:android:be61ad05802fdf343e0e97",
+        "android_client_info": {
+          "package_name": "kr.co.jbrsoft.ipurpleyou"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074439635510-j1mio04eilg9j4fpp57ug0utfcubp0ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRxjKsFcbIUrF3CHmxBLsr2Q71Jp7alDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074439635510-j1mio04eilg9j4fpp57ug0utfcubp0ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
