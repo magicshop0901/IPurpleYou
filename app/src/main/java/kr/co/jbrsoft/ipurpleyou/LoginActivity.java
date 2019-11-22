@@ -17,6 +17,8 @@ public class LoginActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
+    }
+}
 
 //        // 네이버 라이브러리 사용하기
 //        OAuthLogin mOAuthLoginModule = OAuthLogin.getInstance();
@@ -53,5 +55,3 @@ public class LoginActivity extends AppCompatActivity {
 //    };
 //    mOAuthLoginModule.startOauthLoginActivity(mContext, mOAuthLoginHandler);
 //}
-    }
-}
